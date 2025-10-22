@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+
+# MySQL Connector JAR file
+*.jar
+
+# IDE metadata files
+.idea/
+.vscode/
+
+# A file for your local credentials (see Step 5)
+config.properties
